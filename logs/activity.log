@@ -1,0 +1,21 @@
+[2026-03-29 21:43:15]  Logs cleared by user.
+[2026-03-29 21:57:56]  Application started.
+[2026-03-29 21:58:52]  ENCODE | input=C:/Users/LENOVO/Downloads/sample_audio.wav | output=Output\sample_audio.wav | sha256=e1152d3800f60f79…
+[2026-03-29 21:59:24]  EMAIL | to=boorashashiraju@gmail.com | wav=C:\Users\LENOVO\OneDrive\Documents\cyber_project\Output\sample_audio.wav
+[2026-03-29 22:00:01]  DECODE | file=C:/Users/LENOVO/Downloads/sample_audio.wav | success=True
+[2026-03-29 22:00:27]  DECODE | file=C:/Users/LENOVO/Downloads/sample_audio (1).wav | success=True
+[2026-03-29 22:00:43]  DECODE | file=C:/Users/LENOVO/Downloads/sample_audio (1).wav | success=True
+[2026-03-29 22:00:46]  DECODE | file=C:/Users/LENOVO/Downloads/sample_audio (1).wav | success=True
+[2026-03-29 22:01:45]  DECODE | file=C:/Users/LENOVO/Downloads/sample_audio (1).wav | success=False | reason=Fernet key must be 32 url-safe base64-encoded bytes.
+[2026-03-29 22:01:51]  DECODE | file=C:/Users/LENOVO/Downloads/sample_audio (1).wav | success=False | reason=Fernet key must be 32 url-safe base64-encoded bytes.
+[2026-03-29 22:01:59]  DECODE | file=C:/Users/LENOVO/Downloads/sample_audio (1).wav | success=False | reason=InvalidToken
+[2026-03-29 22:02:40]  DECODE | file=C:/Users/LENOVO/Downloads/sample_audio (1).wav | success=False | reason=InvalidToken
+[2026-03-29 22:02:58]  DECODE | file=C:/Users/LENOVO/Downloads/sample_audio (1).wav | success=False | reason=InvalidToken
+[2026-03-29 22:16:47]  Application started.
+[2026-03-29 22:17:10]  ENCODE | input=C:/Users/LENOVO/OneDrive/Documents/cyber_project/Output/_test_enc.wav | output=Output\_test_enc.wav | sha256=78792ed5ec4e48bb…
+[2026-03-29 22:17:39]  EMAIL | to=boorashashiraju@gmail.com | wav=C:\Users\LENOVO\OneDrive\Documents\cyber_project\Output\_test_enc.wav
+[2026-03-29 22:19:10]  DECODE | file=C:/Users/LENOVO/Downloads/_test_enc.wav | success=True
+[2026-03-29 22:20:01]  Application started.
+[2026-03-29 22:20:34]  ENCODE | input=C:/Users/LENOVO/Downloads/_test_enc.wav | output=Output\_test_enc.wav | sha256=f072e26c4c738e31…
+[2026-03-29 22:20:49]  EMAIL | to=boorashashiraju@gmail.com | wav=C:\Users\LENOVO\OneDrive\Documents\cyber_project\Output\_test_enc.wav
+[2026-03-29 22:21:44]  DECODE | file=C:/Users/LENOVO/Downloads/_test_enc (1).wav | success=True
